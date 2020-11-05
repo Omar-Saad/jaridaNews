@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "591693539696",
+    "firebase_url": "https://elgarida-c590b.firebaseio.com",
+    "project_id": "elgarida-c590b",
+    "storage_bucket": "elgarida-c590b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591693539696:android:ddff18d69bdb97921e07b5",
+        "android_client_info": {
+          "package_name": "com.news.akhbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591693539696-nemnqqaltgh8dnmqt11eqdg6sb6kqnak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.news.akhbar",
+            "certificate_hash": "6daf78c6753e308bf96ecde94a21e25ac2efb3c6"
+          }
+        },
+        {
+          "client_id": "591693539696-tv0u31mjqq25gj4a2g5o7938rek55e0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTG2fvqXt-8VeRPOHTTMgKAkg12dqwKxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591693539696-tv0u31mjqq25gj4a2g5o7938rek55e0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

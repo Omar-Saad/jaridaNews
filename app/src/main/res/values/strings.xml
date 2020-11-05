@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name" translatable="false">الجريدة</string>
+    <string name="nav_home">Home</string>
+    <string name="news">News</string>
+    <string name="nav_world">World News</string>
+    <string name="youm7">Youm7</string>
+    <string name="masrawy">Masrawy</string>
+    <string name="nav_sports">Sports News</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="sources">Resources</string>
+    <string name="technology">Technology News</string>
+    <string name="headliners">Top Head Lines</string>
+    <string name="single_option_dialog_title">Choose app language</string>
+    <string name="change_language_title">Change app language</string>
+    <string name="top_news">Top Headlines</string>
+    <string name="single_option_dialog_postive">Confirm</string>
+    <string name="single_option_dialog_negative">Cancel</string>
+    <string name="share_subject">News from Newspaper app</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="fav">Favourites</string>
+    <string name="department">Category</string>
+    <string name="addFav">Added to favouritea</string>
+    <string name="btn_read_more">Read more</string>
+    <string name="rate_app">Rate the app</string>
+    <string name="share_app">Share the app</string>
+    <string name="contact">Contact Us</string>
+    <string name="single_option_dialog_title_fav">There is no favourites</string>
+    <string name="ok">Ok</string>
+    <string name="no_internet">No internet available</string>
+    <string name="remove_fav">Removed from favourite list</string>
+    <string name="load">Loading...</string>
+    <string name="please_wait">Please wait...</string>
+    <string-array name="language">
+        <item>English</item>
+        <item>العربية</item>
+    </string-array>
+    <string name="email_subject">مراسلة بخصوص تطبيق الجريدة</string>
+
+</resources>

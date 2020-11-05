@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_home">الرئيسية</string>
+    <string name="news">الاخبار</string>
+    <string name="nav_world">الاخبار العالمية</string>
+    <string name="youm7">اليوم السابع</string>
+    <string name="masrawy">مصراوي</string>
+    <string name="nav_sports">اخبار الرياضة</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">اعدادات التطبيق</string>
+    <string name="sources">المصادر</string>
+    <string name="headliners">اهم الاخبار</string>
+    <string name="menu_home">Home</string>
+
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="technology">التكنولوجيا</string>
+    <string name="single_option_dialog_title">تغيير لغة التطبيق</string>
+    <string name="single_option_dialog_postive">تأكبد</string>
+    <string name="single_option_dialog_negative">الغاء</string>
+    <string name="share_subject">خبر من برنامج الجريدة</string>
+    <string name="fav">المفضلة</string>
+    <string name="department">الاقسام</string>
+    <string name="addFav">تمت الاضافة في قا~مة المفضلة</string>
+    <string name="btn_read_more">القراءة من المصدر</string>
+    <string name="rate_app">قيم التطبيق</string>
+    <string name="share_app">شارك التطبيق</string>
+    <string name="contact">تواصل معنا</string>
+    <string name="email_subject">مراسلة بخصوص تطبيق الجريدة</string>
+    <string name="change_language_title">اختار لغة التطبيق</string>
+    <string name="top_news">أهم الأخبار</string>
+    <string name="single_option_dialog_title_fav">قائمة المفضلة فارغة</string>
+    <string name="ok">تم</string>
+    <string name="remove_fav">تمت الازالة من قا~مة المفضلة</string>
+    <string name="no_internet">لا يوجد اتصال بالانترنت</string>
+    <string name="load">جاري التحميل...</string>
+    <string name="please_wait">برجاء الانتظار...</string>
+
+</resources>
